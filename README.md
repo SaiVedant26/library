@@ -1,5 +1,5 @@
-### Library Management System using ReactJS.
+### Library Management System with Recommendation System using Django and ReactJS.
 
-React Source Code is in the Folder named Source
+Please open the documentation folder to see more.
 
-http://saivedant26.github.io/library
+Visit website:- https://saivedant-test.42web.io
